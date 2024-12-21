@@ -1,7 +1,7 @@
-#FirstBank Pretest
+# FirstBank Pretest
 A responsive homepage optimized to be reponsive across mobile, desktop and tablets.
 
-##Stack Used for this project
+## Stack Used for this project
 - CMS: Wordpress
 - Programming languag: PHP
 - Database: MySql
