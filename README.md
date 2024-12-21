@@ -5,7 +5,6 @@ A homepage optimized to be reponsive across mobile, desktop and tablets.
 - CMS: Wordpress
 - Programming language: PHP
 - Database: MySql
-- Server: Apache
-- Hosting solution: Netlify
+- Hosting solution: Netlify Cloud Hosting
 
   [See live project here](https://firstbank-pretest.netlify.app/)
