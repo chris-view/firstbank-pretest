@@ -3,9 +3,9 @@ A responsive homepage optimized to be reponsive across mobile, desktop and table
 
 ## Stack Used for this project
 - CMS: Wordpress
-- Programming languag: PHP
+- Programming language: PHP
 - Database: MySql
 - Server: Apache
 - Hosting solution: Netlify
 
-  See live project here
+  [See live project here](https://firstbank-pretest.netlify.app/)
